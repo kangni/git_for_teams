@@ -1,7 +1,3 @@
 best practice with git, xixi
 
 1
-
----
-
-WIP-0 branch
